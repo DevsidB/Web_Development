@@ -1,0 +1,32 @@
+/* html,body{
+    height: 100%;
+    width: 100%;
+} */
+
+.bulbblack{
+    height: 100px;
+    width: 400px;
+    background: black;
+}
+.bulbyellow{
+    height: 400px;
+    width: 100px;
+    background: yellow;
+}
+.bulbred{
+    height: 200px;
+    width: 349px;
+    background: red;
+}
+
+.bulbgreen{
+    height: 100px;
+    width: 400px;
+    background: green;
+}
+
+.bulbpurple{
+    height: 400px;
+    width: 100px;
+    background: purple;
+}
